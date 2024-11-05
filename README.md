@@ -34,16 +34,15 @@ The main data source utilized in this analysis is a HR.Data.csv file, an open-so
 ### Data Cleaning and Preparations 
 ---
 In the initial phase of the Data cleaning and Preparations, we perform the following actions;
- ####1. Data loading and Inspection:
+- Data loading and Inspection:
     - The dataset was imported from excel into PowerBI 
-####2. Handling missing Variables:
+- Handling missing Variables:
     - Promoted headers; this means the first row of the data was used as column hearders
-####3. Data Cleaning and Formatting:
+- Data Cleaning and Formatting:
     - Creation of new column:
        1. Created a conditional column to classify age brackets (Age_Band)
        2. Created a conditional column for Job Satisfaction Ratings
-
-####4. Sort a Visual:
+- Sorted a Visual:
         - Created a conditional column to sort Column (Age_Band); Age_band was sorted by the new column created so that it will be arranged in ascending order in the visuals 
 
 
