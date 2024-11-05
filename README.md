@@ -67,4 +67,34 @@ This is where we include basic insights gained during analysis
 ![HR Data](https://github.com/user-attachments/assets/dbacc80d-88f6-4a4d-bcb7-d0e76cee3226)
 
 ### Report 
- 
+
+- Attrition By Education Field
+
+Attrition by Education Field reveals the following trends:
+
+i. The Life Sciences field has the highest attrition count, with Medical and Marketing fields following closely behind.
+
+ii. In contrast, fields such as Technical Degree and other specialties exhibit relatively lower attrition rates.
+
+- Attrition By Department 
+
+i. Attrition shows considerable variation across different departments.
+
+ii. The R&D department experiences the highest level of attrition, with 961 employees having left.
+
+iii. Following that, the Sales department has seen 446 employees depart.
+
+iv. Conversely, the HR department reports the lowest attrition rate, with only 63 employees leaving.
+
+- Attrition by Gender
+  
+  Attrition by Gender indicates that:
+
+i. A significant majority of the attrition, accounting for 63.29%, involves male employees (150), while female employees represent 36.71% (87) of the attrition cases.
+
+When looking at Attrition by Gender and Age Band:
+
+i. The breakdown reveals that the 25-34 age band has the highest attrition, with 122 employees.
+
+
+
