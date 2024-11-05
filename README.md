@@ -63,10 +63,12 @@ This is where we include basic insights gained during analysis
  - Average Age is 37
 
 ### Data Visualization
+---
 
 ![HR Data](https://github.com/user-attachments/assets/dbacc80d-88f6-4a4d-bcb7-d0e76cee3226)
 
 ### Report 
+---
 
 - Attrition By Education Field
 
@@ -95,6 +97,17 @@ i. A significant majority of the attrition, accounting for 63.29%, involves male
 When looking at Attrition by Gender and Age Band:
 
 i. The breakdown reveals that the 25-34 age band has the highest attrition, with 122 employees.
+
+### Recommendations
+---
+
+1. Retention Analysis: To tackle the high attrition in R&D and Sales, we should conduct detailed exit interviews to gather qualitative data on the reasons behind employee departures. By analyzing this information, we can identify common themes and develop targeted retention strategies to address the root causes.
+
+2. Field-Specific Insights: In the Life Sciences and Medical sectors, enhancing job satisfaction is crucial. By analyzing metrics like customer satisfaction scores and retention rates, we can gain valuable insights into employee sentiment and areas for improvement. Implementing tailored programs based on this data can help boost engagement and retention in these key fields.
+
+3. Continuous Monitoring: It's essential to establish a robust data monitoring system to track attrition trends over time. By regularly evaluating metrics such as customer satisfaction scores and Net Promoter Score, we can proactively identify shifts in employee retention and adjust our strategies accordingly.
+
+By leveraging data analysis techniques in these areas, we can gain valuable insights that drive informed decision-making and ultimately improve employee retention rates 
 
 
 
